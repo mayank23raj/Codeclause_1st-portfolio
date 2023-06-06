@@ -22,3 +22,6 @@ To view the website, simply open the index.html file in a web browser.
 
 ## Usage 🤝
 Feel free to use this code as a starting point for your own portfolio website. You can customize the design and content to fit your own needs.
+
+![Capture](https://github.com/mayank23raj/Codeclause_1st-portfolio/assets/54406182/7dc08dbe-c5cb-4935-b6e4-c97cb136fea6)
+
