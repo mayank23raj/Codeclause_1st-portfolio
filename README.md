@@ -1,3 +1,4 @@
 # Codeclause_1st-portfolio
 
-[Task Allocation Document.pdf](https://github.com/mayank23raj/Codeclause_1st-portfolio/files/11659947/Task.Allocation.Document.pdf)
+![Capture](https://github.com/mayank23raj/Codeclause_1st-portfolio/assets/54406182/7dc08dbe-c5cb-4935-b6e4-c97cb136fea6)
+
